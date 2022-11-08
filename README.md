@@ -1,10 +1,9 @@
 ## Seja bem vindo ao meu perfil! 👋
 
-• Meu nome é Matheus Cardoso <br>
-• Tenho 19 anos <br>
-• Estou no 2º período na graduação de Engenharia de Software<br>
-• Brasileiro <br>
-• Desenvolvedor em formação (HTML, CSS, JS, JAVA).<br>
+• Meu nome é Matheus Cardoso<br>
+• Tenho 19 anos<br>
+• Estou no 2º período na graduação de Engenharia de Software na UniRv<br>
+• Desenvolvedor em formação (HTML, CSS, JS, JAVA)<br>
 
 <a align="center" href="#">
   <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api?username=matheuscardosoj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
