@@ -14,4 +14,4 @@
 ##
 
 <a href="https://www.linkedin.com/in/matheus-cardoso-de-jesus-7120a573/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href= "mailto:matheus_cardosoj@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+<a href= "mailto:matheuscardosoj@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
