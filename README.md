@@ -2,7 +2,7 @@
 
 • Meu nome é Matheus Cardoso<br>
 • Tenho 20 anos<br>
-• Estou no 4º período na graduação de Engenharia de Software na UniRv<br>
+• Estou no 5º período na graduação de Engenharia de Software na UniRv<br>
 • Desenvolvedor em formação (HTML, CSS, JS, JAVA)<br>
 
 <a align="center" href="#">
